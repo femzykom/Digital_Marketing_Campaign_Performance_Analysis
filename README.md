@@ -23,6 +23,8 @@ This project analyzes the performance of 11 digital advertising campaigns using 
 
 > **Key Metrics:** ROAS, ROMI, CTR, CPC, CAC, CTO
 
+![Digital Marketing Report 4b](https://github.com/user-attachments/assets/a24c90ba-0f4e-4954-b84a-a200d72fa12d)
+
 ---
 
 ## 🧠 Objectives
