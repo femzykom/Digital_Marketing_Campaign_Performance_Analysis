@@ -10,10 +10,10 @@
 - [Objectives](#objectives)
 - [Dataset Overview](#dataset-overview)
 - [Tools & Technologies](#tools-&-technologies)
-- [Data Cleaning & Preparation](#aata-cleaning-&-preparation)
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
 - [SQL Snippet – ROAS Per Day](#SQL-snippet-–-rOAS-per-day)
 - [Key Insights](#key-insights)
-- [Recommendations](#Recommendations)
+- [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#References)
 
