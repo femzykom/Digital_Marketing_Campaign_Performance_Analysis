@@ -104,19 +104,19 @@ WHERE clicks IS NOT NULL;
 
 ### 📊 Recommendations
 1. Scale Influencer Campaigns:
-- Youtube Blogger and similar influencer strategies delivered high ROMI and efficient CAC — ideal for scalable investment.
+    - Youtube Blogger and similar influencer strategies delivered high ROMI and efficient CAC — ideal for scalable investment.
 
 2. Reassess or Retire Social Campaigns:
-- Channels like Facebook Lal performed poorly despite high Spend. Testing new audience segments or creatives may be necessary.
+    - Channels like Facebook Lal performed poorly despite high Spend. Testing new audience segments or creatives may be necessary.
 
 3. Investigate CPC Inefficiencies:
-- High CPC outliers (₦1.19+) require creative/bidding optimizations. Consider narrowing target demographics or testing shorter campaign durations.
+    - High CPC outliers (₦1.19+) require creative/bidding optimizations. Consider narrowing target demographics or testing shorter campaign durations.
 
 4. Funnel Optimization:
-- Low conversion from leads to orders in certain campaigns suggests friction points. Review landing page UX, CTA clarity, and checkout flows.
+    - Low conversion from leads to orders in certain campaigns suggests friction points. Review landing page UX, CTA clarity, and checkout flows.
 
 5. Continue Daily CTO Monitoring:
-- The day-level CTO trend has been embedded in the dashboard, allowing for real-time tracking and mid-campaign optimization opportunities.
+    - The day-level CTO trend has been embedded in the dashboard, allowing for real-time tracking and mid-campaign optimization opportunities.
 
 
 ---
