@@ -1,7 +1,6 @@
 # 📊 Digital Marketing Campaign Performance Analysis
 
-**Tools**: Excel, SQL, Power BI
-**Reporting Currency**: ₦ (Naira)  
+**Tools**: Excel, SQL, Power BI  
 **Duration Analyzed**: 28 Days  
 **Campaigns**: 11 across Facebook, Instagram, Google, and YouTube  
 
